@@ -13,5 +13,6 @@ Ideas
 - Use numpy.array as samples
 - Use native Python functions (can we drop the input/dimension properties, gradients ?)
 - Drop optimization algorithm wrappers in favor of scipy.optimize (also drop EGO in favor of skopt.gp_minimize)
-- Drop bayesian (PYMC)
+- Drop bayesian (pymc)
+- Drop kriging (sklearn)
 - Contribute scipy.stats distributions
